@@ -1,27 +1,18 @@
 <h1 align="center">Rafael Reis Stumm</h1>
 
-<p align="center">
-💻 Estudante de Ciência da Computação <br>
-🚀 Desenvolvimento Full Stack <br>
-📍 Brasil
-</p>
-
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Ciência da Computação** com foco em evolução constante na área de desenvolvimento de software.
-
-Atualmente venho estudando e desenvolvendo projetos com **JavaScript, Java, Python e PostgreSQL**, buscando fortalecer tanto a base técnica quanto a construção de aplicações completas.
-
-Tenho interesse em oportunidades de **estágio em TI**, principalmente em contextos onde eu possa aprender na prática, colaborar com projetos reais e crescer como desenvolvedor full stack.
+Tenho **18 anos** e sou estudante de **Ciência da Computação**.  
+Estou focado em aprender e desenvolver projetos utilizando **JavaScript, Java, Python e PostgreSQL**, buscando evoluir na área de desenvolvimento de software e conquistar minha primeira oportunidade de **estágio em TI**.
 
 ---
 
 ## 🚀 Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,python,postgresql,git,github,vscode,idea&perline=11" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,python,postgresql,git&perline=8" />
 </p>
 
 ---
@@ -37,7 +28,7 @@ Tenho interesse em oportunidades de **estágio em TI**, principalmente em contex
 <h3 align="center">🩸 Sistema de Agendamento de Doação de Sangue</h3>
 
 <p align="center">
-Sistema web para agendamento de horários e locais de doação de sangue, focado em organização e experiência do usuário.
+Sistema web para agendamento de horários e locais de doação de sangue.
 </p>
 
 <p align="center">
@@ -52,7 +43,7 @@ Sistema web para agendamento de horários e locais de doação de sangue, focado
 <h3 align="center">💼 Portfólio Web</h3>
 
 <p align="center">
-Site pessoal desenvolvido para apresentar meus projetos, habilidades e evolução na área de desenvolvimento web.
+Site pessoal desenvolvido para apresentar meus projetos e evolução em desenvolvimento web.
 </p>
 
 <p align="center">
