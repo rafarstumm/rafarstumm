@@ -1,7 +1,3 @@
-<h1 align="center">Rafael Reis Stumm</h1>
-
----
-
 ## 👨‍💻 Sobre mim
 
 Tenho **18 anos** e sou estudante de **Ciência da Computação**.  
