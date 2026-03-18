@@ -1,7 +1,7 @@
 ## 👨‍💻 Sobre mim
 
 Tenho **18 anos** e sou estudante de **Ciência da Computação**.  
-Estou focado em aprender e desenvolver projetos utilizando **JavaScript, Java, Python e PostgreSQL**, buscando evoluir na área de desenvolvimento de software e conquistar minha primeira oportunidade de **estágio em TI**.
+Estou focado em aprender e desenvolver projetos utilizando **JavaScript, Java, Python e PostgreSQL**, buscando evoluir na área de desenvolvimento de software e conquistar minha primeira oportunidade de trabalho em TI.
 
 ---
 
