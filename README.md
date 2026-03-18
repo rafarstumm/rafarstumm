@@ -12,69 +12,65 @@
 
 Sou estudante de **Ciência da Computação** com interesse em desenvolvimento de software e tecnologias web.
 
-Atualmente estou focado em aprender e desenvolver projetos utilizando **Java, React e Banco de Dados**, buscando aplicar conceitos de programação, arquitetura de software e boas práticas de desenvolvimento.
+Atualmente estou estudando **React, Java e Banco de Dados**, desenvolvendo projetos para aprimorar minhas habilidades em programação e arquitetura de sistemas.
 
-Meu objetivo é conquistar uma **oportunidade de estágio em TI**, onde eu possa evoluir tecnicamente e contribuir com projetos reais.
-
----
-
-## 🛠 Tecnologias e Ferramentas
-
-**Frontend**
-
-- HTML
-- CSS
-- JavaScript
-- React
-
-**Backend**
-
-- Java
-- APIs REST
-
-**Banco de Dados**
-
-- PostgreSQL
-- SQL
-
-**Ferramentas**
-
-- Git
-- GitHub
-- VS Code
-- IntelliJ IDEA
+Busco uma **oportunidade de estágio em TI** para aplicar meus conhecimentos em projetos reais.
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Tecnologias
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html" height="50"/>
+<img src="https://skillicons.dev/icons?i=css" height="50"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="50"/>
+<img src="https://skillicons.dev/icons?i=react" height="50"/>
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=java" height="50"/>
+</p>
+
+### Banco de Dados
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql" height="50"/>
+</p>
+
+### Ferramentas
+<p>
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+<img src="https://skillicons.dev/icons?i=idea" height="50"/>
+</p>
+
+---
+
+## 📌 Projetos em destaque
 
 ### 📅 Sistema de Agendamento de Doação de Sangue
-Sistema web para agendamento de horários e locais de doação de sangue.
+Sistema web para agendar horários e locais de doação.
 
-Tecnologias utilizadas:
-- React
-- Java
-- PostgreSQL
+Tecnologias:
+React • Java • PostgreSQL
 
 ---
 
 ### 💼 Portfólio Web
-Site pessoal desenvolvido para apresentar projetos e habilidades em desenvolvimento web.
+Site pessoal para apresentação de projetos.
 
-Tecnologias utilizadas:
-- HTML
-- CSS
-- JavaScript
+Tecnologias:
+HTML • CSS • JavaScript
 
 ---
 
 ### 🎮 Jogo em C (Tabuleiro 8x8)
-Jogo de dois jogadores onde cada movimento deixa trilhas temporárias que bloqueiam o caminho.
+Jogo de estratégia para dois jogadores com bloqueio de caminhos temporário.
 
-Tecnologias utilizadas:
-- Linguagem C
-- Estruturas de controle
-- Lógica de jogo
+Tecnologias:
+C • lógica de programação
 
 ---
 
@@ -90,7 +86,3 @@ Tecnologias utilizadas:
 
 LinkedIn: https://linkedin.com/in/SEULINK  
 Email: seuemail@email.com
-
----
-
-⭐ Sempre aberto a aprender novas tecnologias e colaborar em projetos.
