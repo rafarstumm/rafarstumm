@@ -1,31 +1,30 @@
 <h1 align="center">Rafael Reis Stumm</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o;React+%7C+Java+%7C+Python+%7C+PostgreSQL;Buscando+uma+oportunidade+de+est%C3%A1gio+em+TI" alt="Typing SVG" />
+💻 Estudante de Ciência da Computação <br>
+🚀 Focado em desenvolvimento Full Stack <br>
+📍 Brasil
 </p>
 
 <p align="center">
   <a href="mailto:reisstummrafael91@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> Gmail
   </a>
-  <a href="https://www.linkedin.com/in/rafaelstumm/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Rafael%20Stumm-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  
+  <a href="https://www.linkedin.com/in/rafaelstumm/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> LinkedIn
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&label=Visualiza%C3%A7%C3%B5es+do+perfil&color=111111&style=for-the-badge" />
 </p>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou estudante de **Ciência da Computação** com foco em evolução constante na área de desenvolvimento de software.
+Sou estudante de **Ciência da Computação** com interesse em desenvolvimento de software e tecnologias web.
 
-Atualmente venho estudando e desenvolvendo projetos com **React, Java, Python e PostgreSQL**, buscando fortalecer tanto a base técnica quanto a construção de aplicações completas.
+Atualmente estou estudando e desenvolvendo projetos com **JavaScript, Java, Python e PostgreSQL**, buscando fortalecer minhas habilidades em desenvolvimento de aplicações completas.
 
-Tenho interesse em oportunidades de **estágio em TI**, principalmente em contextos onde eu possa aprender na prática, colaborar com projetos reais e crescer como desenvolvedor full stack.
+Tenho interesse em oportunidades de **estágio em TI**, onde eu possa evoluir tecnicamente e contribuir com projetos reais.
 
 ---
 
@@ -37,46 +36,33 @@ Tenho interesse em oportunidades de **estágio em TI**, principalmente em contex
 
 ---
 
-## ✨ Destaques
+## ✨ Projetos em destaque
 
-<div align="center">
+### 🩸 Sistema de Agendamento de Doação de Sangue
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🩸 Sistema de Agendamento de Doação de Sangue</h3>
-      <p align="center">
-        Projeto voltado ao agendamento de horários e locais para doação de sangue, com foco em organização, praticidade e experiência do usuário.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">💼 Portfólio Web</h3>
-      <p align="center">
-        Site pessoal desenvolvido para apresentar minhas habilidades, projetos e evolução na área de desenvolvimento web.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-      </p>
-    </td>
-  </tr>
-</table>
+Sistema web para agendar horários e locais de doação de sangue.
 
-</div>
+Tecnologias:
+
+<img src="https://skillicons.dev/icons?i=javascript,java,postgresql"/>
+
+---
+
+### 💼 Portfólio Web
+
+Site pessoal desenvolvido para apresentar projetos e habilidades em desenvolvimento web.
+
+Tecnologias:
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
 
 ---
 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
@@ -84,30 +70,9 @@ Tenho interesse em oportunidades de **estágio em TI**, principalmente em contex
 ## 🔥 Atividade
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&theme=github-dark&hide_border=true&area=true" />
-</p>
-
----
-
-## 🎯 Objetivo
-
-Meu objetivo é construir uma trajetória sólida como desenvolvedor, evoluindo em projetos que envolvam **frontend, backend, banco de dados e boas práticas de desenvolvimento**.
-
-Estou em busca de desafios que me ajudem a transformar conhecimento em resultado prático.
-
----
-
-## 📫 Contato
-
-<p align="center">
-  <a href="mailto:reisstummrafael91@gmail.com">
-    <img src="https://img.shields.io/badge/Email-reisstummrafael91%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rafaelstumm/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-rafaelstumm-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&theme=github-dark&hide_border=true&area=true"/>
 </p>
